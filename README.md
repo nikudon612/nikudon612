@@ -6,13 +6,17 @@ Full-stack Software Engineer | Photographer
 Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron School. My background is in Photography and Fine Arts. I'm a huge fan of surfing, video games, and  anime/manga.
 
 🔭 I’m currently working on Safely and CheckedIn
+<br/>
 🌱 I’m currently learning Python
+<br/>
 💬 Ask me about anything! I'm open to any collaborations!
+<br/>
 📫 How to reach me: https://www.linkedin.com/in/nicholasbechtel/
+<br/>
 ⚡ Fun fact: I can speak conversational Japanese :) 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" font-size=10/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
