@@ -16,7 +16,7 @@ Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron Sc
 <br/>
 ⚡ Fun fact: I can speak conversational Japanese :) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikudon612&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikudon612&layout=compact&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height='40' />
