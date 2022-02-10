@@ -2,7 +2,8 @@
 
 Full-stack Software Engineer | Photographer
 
-(https://github.com/nikudon612/nikudon612/Purple_Sky_Profile_Header.png)
+
+<img src="github.com/nikudon612/nikudon612/Purple_Sky_Profile_Header.png" />
 
 Tech skills - React, Ruby on Rails, Ruby, JavaScript, HTML, CSS, among others...
 
