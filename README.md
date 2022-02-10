@@ -2,7 +2,7 @@
 
 Full-stack Software Engineer | Photographer
 
-![I am GitHub Readme Generator's creator](https://github.com/nikudon612/nikudon612/blob/main/nikudon612.jpg)
+(https://github.com/nikudon612/nikudon612/Purple_Sky_Profile_Header.png)
 
 Tech skills - React, Ruby on Rails, Ruby, JavaScript, HTML, CSS, among others...
 
