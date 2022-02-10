@@ -3,8 +3,11 @@
 Full-stack Software Engineer | Photographer
 
 
-<img src="github.com/nikudon612/nikudon612/Purple_Sky_Profile_Header.png" />
+![NickBanner](https://user-images.githubusercontent.com/87031638/153313250-f899e42e-af1e-457a-9d35-52c90cc80a21.png)
 
+
+<!-- <img src="github.com/nikudon612/nikudon612/Purple_Sky_Profile_Header.png" />
+ -->
 Tech skills - React, Ruby on Rails, Ruby, JavaScript, HTML, CSS, among others...
 
 Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron School. My background is in Photography and Fine Arts. I'm a huge fan of surfing, video games, and  anime/manga.
