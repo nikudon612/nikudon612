@@ -1,11 +1,8 @@
+![NickBanner](https://user-images.githubusercontent.com/87031638/153313250-f899e42e-af1e-457a-9d35-52c90cc80a21.png)
+
 ### Hi there 👋, my name is Nick Bechtel
 
 Full-stack Software Engineer | Photographer
-
-
-![NickBanner](https://user-images.githubusercontent.com/87031638/153313250-f899e42e-af1e-457a-9d35-52c90cc80a21.png)
-
-
 <!-- <img src="github.com/nikudon612/nikudon612/Purple_Sky_Profile_Header.png" />
  -->
 Tech skills - React, Ruby on Rails, Ruby, JavaScript, HTML, CSS, among others...
