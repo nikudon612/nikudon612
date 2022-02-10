@@ -1,13 +1,18 @@
-![NickBanner](https://user-images.githubusercontent.com/87031638/153313250-f899e42e-af1e-457a-9d35-52c90cc80a21.png)
-
 ### Hi there 👋, my name is Nick Bechtel
 
 Full-stack Software Engineer | Photographer
+
+
+![NickBanner](https://user-images.githubusercontent.com/87031638/153313250-f899e42e-af1e-457a-9d35-52c90cc80a21.png)
+
+
 <!-- <img src="github.com/nikudon612/nikudon612/Purple_Sky_Profile_Header.png" />
  -->
 Tech skills - React, Ruby on Rails, Ruby, JavaScript, HTML, CSS, among others...
 
 Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron School. My background is in [Photography](https://www.nickbechtel.com/) and Fine Arts. I'm a huge fan of surfing, video games, and  anime/manga.
+
+<br/>
 
 🔭 I’m currently working on [Safely](https://github.com/nikudon612/Safely) and [CheckedIn](https://github.com/dialloflatno/Checkin)
 <br/>
@@ -19,23 +24,12 @@ Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron Sc
 <br/>
 ⚡ Fun fact: I can speak conversational Japanese :smile:
 
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikudon612&layout=compact&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height='40' />
 
-<!--
-**nikudon612/nikudon612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
