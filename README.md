@@ -10,7 +10,7 @@ Full-stack Software Engineer | Photographer
  -->
 Tech skills - React, Ruby on Rails, Ruby, JavaScript, HTML, CSS, among others...
 
-Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron School. My background is in Photography and Fine Arts. I'm a huge fan of surfing, video games, and  anime/manga.
+Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron School. My background is in [Photography](https://www.nickbechtel.com/) and Fine Arts. I'm a huge fan of surfing, video games, and  anime/manga.
 
 🔭 I’m currently working on [Safely](https://github.com/nikudon612/Safely) and [CheckedIn](https://github.com/dialloflatno/Checkin)
 <br/>
