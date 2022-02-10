@@ -20,7 +20,7 @@ Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron Sc
 <br/>
 📫 How to reach me: https://www.linkedin.com/in/nicholasbechtel/
 <br/>
-⚡ Fun fact: I can speak conversational Japanese :) 
+⚡ Fun fact: I can speak conversational Japanese :smile:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikudon612&layout=compact&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
