@@ -16,3 +16,7 @@ code {
   --text-color: rgb(44, 44, 44);
   --highlight-color: #445555;
 }
+
+ul {
+  list-style-type: none;
+}
