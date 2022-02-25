@@ -4,6 +4,8 @@ import "./About.css";
 function About() {
   return (
     <div className="about">
+      <h2>ABOUT</h2>
+      <br />
       <div className="about-content">
         <p>
           Full-Stack Software Developer with a background in Photography. My 10

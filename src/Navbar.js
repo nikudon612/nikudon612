@@ -23,17 +23,17 @@ function Navbar() {
         <ul className="links" id={show ? "hidden" : ""}>
           <li className="logo>"></li>
           <li>
-            <Link to="about" smooth={true} duration={1000}>
+            <Link to="about" smooth={true} duration={750}>
               <span>ABOUT</span>
             </Link>
           </li>
           <li>
-            <Link to="projects" smooth={true} duration={1000}>
+            <Link to="projects" smooth={true} duration={750}>
               <span>PROJECTS</span>
             </Link>
           </li>
           <li>
-            <Link to="skills" smooth={true} duration={1000}>
+            <Link to="skills" smooth={true} duration={750}>
               <span>SKILLS</span>
             </Link>
           </li>
