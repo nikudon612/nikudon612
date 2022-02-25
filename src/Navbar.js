@@ -1,10 +1,9 @@
 import React, { useState } from "react";
-import AppBar from "@mui/material/AppBar";
-import Typography from "@mui/material/Typography";
-import Menu from "@mui/material/Menu";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
 import { Link } from "@mui/material";
+import "./Navbar.css";
+// import { Link } from "react-scroll";
 
 function Navbar() {
   const [show, setShow] = useState(false);
@@ -13,8 +12,10 @@ function Navbar() {
     window.scrollTo(0, 0);
   };
   return (
-    <nav>
-      <div className="logo"></div>
+    <nav className="navbar">
+      <div className="logo">
+        <img onClick={handleClick} alt="logo"></img>
+      </div>
       <div className="rightside">
         <button className="btn" id="toggle" onClick={() => setShow(!show)}>
           {show ? <CloseIcon /> : <MenuIcon />}
@@ -22,7 +23,7 @@ function Navbar() {
         <ul className="links" id={show ? "hidden" : ""}>
           <li className="logo>"></li>
           <li>
-            <Link to="about" smooth={true} duration={1000}>
+            <Link to="about" smooth="true" duration={1000}>
               <span>ABOUT</span>
             </Link>
           </li>
@@ -47,8 +48,6 @@ function Navbar() {
           </li>
         </ul>
       </div>
-
-      {/* <h1>hello world</h1> */}
     </nav>
   );
 }
