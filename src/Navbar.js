@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
-import { Link } from "@mui/material";
+// import { Link } from "@mui/material";
 import "./Navbar.css";
-// import { Link } from "react-scroll";
+import { Link } from "react-scroll";
 
 function Navbar() {
   const [show, setShow] = useState(false);
@@ -23,7 +23,7 @@ function Navbar() {
         <ul className="links" id={show ? "hidden" : ""}>
           <li className="logo>"></li>
           <li>
-            <Link to="about" smooth="true" duration={1000}>
+            <Link to="about" smooth={true} duration={1000}>
               <span>ABOUT</span>
             </Link>
           </li>

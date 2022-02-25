@@ -1,0 +1,5 @@
+.home {
+  display: flex;
+  height: 100vh;
+  margin: 0 60px;
+}
