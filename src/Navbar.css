@@ -44,3 +44,9 @@
 .navbar .span {
   color: var(--highlight-color);
 }
+
+.navbar #resume {
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 2px;
+}
