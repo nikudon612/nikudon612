@@ -50,6 +50,7 @@ function Navbar() {
             <a
               href="https://drive.google.com/file/d/1d3pYHA3MMD2ZdOLD2NTHRstw2z4DCeHs/view?usp=sharing"
               target="_blank"
+              rel="noreferrer noopener"
             >
               <button id="resume">RESUME</button>
             </a>

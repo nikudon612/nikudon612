@@ -44,12 +44,18 @@
   font-size: medium;
 }
 
-.navbar a:hover {
-  color: var(--highlight-color);
-  cursor: pointer;
+.navbar button {
+  font-weight: bold;
+  padding: 3px;
 }
 
 .navbar button:hover {
+  cursor: pointer;
+  color: rgba(26, 26, 26, 0.05);
+}
+
+.navbar a:hover {
+  color: var(--highlight-color);
   cursor: pointer;
 }
 
