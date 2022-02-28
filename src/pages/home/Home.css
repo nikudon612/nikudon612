@@ -9,6 +9,19 @@
   padding-left: 100px;
 }
 
+.home-title .info {
+  margin-bottom: -30px;
+}
+
+.home-title title {
+  margin-top: 25px;
+  /* margin-bottom: -25px; */
+}
+
+.home-title #photographer {
+  margin-top: -25px;
+}
+
 #photo {
   height: 600px;
   width: 500px;

@@ -14,7 +14,8 @@ code {
 
 :root {
   --text-color: rgb(44, 44, 44);
-  --highlight-color: #445555;
+  --highlight-color: #526464;
+  --textbackground-color: #e9fafa;
 }
 
 ul {
