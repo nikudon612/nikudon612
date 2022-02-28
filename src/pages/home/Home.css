@@ -11,15 +11,38 @@
 
 .home-title .info {
   margin-bottom: -30px;
+  font-weight: bold;
 }
 
-.home-title title {
-  margin-top: 25px;
-  /* margin-bottom: -25px; */
+.home-title h2 {
+  margin-top: 30px;
+}
+
+.home-title .title {
+  margin-top: 30px;
+  color: rgba(0, 0, 0, 0.356);
 }
 
 .home-title #photographer {
   margin-top: -25px;
+}
+
+.home-title #sd {
+  text-decoration: underline;
+}
+
+.home-title #sd:hover {
+  cursor: pointer;
+  color: var(--althigh-color);
+}
+
+.home-title a {
+  text-decoration: underline rgb(223, 189, 223);
+  color: rgb(223, 189, 223);
+}
+
+.home-title a:hover {
+  color: var(--althigh-color);
 }
 
 #photo {
