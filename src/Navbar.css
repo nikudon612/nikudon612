@@ -51,7 +51,7 @@
 
 .navbar button:hover {
   cursor: pointer;
-  color: rgba(26, 26, 26, 0.05);
+  color: var(--highlight-color);
 }
 
 .navbar a:hover {
