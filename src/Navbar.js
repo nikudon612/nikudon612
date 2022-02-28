@@ -46,6 +46,11 @@ function Navbar() {
               <span>BLOG</span>
             </a>
           </li>
+          <li>
+            <a href="https://drive.google.com/file/d/1d3pYHA3MMD2ZdOLD2NTHRstw2z4DCeHs/view?usp=sharing">
+              <button id="resume">RESUME</button>
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
