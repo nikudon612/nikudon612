@@ -27,6 +27,17 @@
 
 .project-card-content .desc {
   width: 280px;
+  font-size: small;
+}
+
+#firsthr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  width: 300px;
 }
 
 .buttons {
@@ -39,4 +50,16 @@
 .btn {
   margin-top: 10px;
   margin-bottom: 30px;
+  font-weight: bold;
+  padding: 3px;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 2px;
+  width: 100px;
+  height: 50px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  color: var(--highlight-color);
 }

@@ -33,11 +33,16 @@
 
 .home-title #sd:hover {
   cursor: pointer;
+  color: var(--althigh-color);
 }
 
 .home-title a {
   text-decoration: underline rgb(223, 189, 223);
   color: rgb(223, 189, 223);
+}
+
+.home-title a:hover {
+  color: var(--althigh-color);
 }
 
 #photo {
