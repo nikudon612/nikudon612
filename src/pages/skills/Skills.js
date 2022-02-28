@@ -4,7 +4,7 @@ import "./Skills.css";
 function Skills() {
   return (
     <div className="skills">
-      <h1>Hello Skills</h1>
+      <h2>SKILLS</h2>
     </div>
   );
 }

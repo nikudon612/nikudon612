@@ -16,6 +16,7 @@ code {
   --text-color: rgb(44, 44, 44);
   --highlight-color: #526464;
   --textbackground-color: #e9fafa;
+  background-color: #f7f7f7;
 }
 
 ul {

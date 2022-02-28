@@ -1,8 +1,42 @@
 .project-card-content {
   height: 250px;
-  border: 1px solid black;
+  border: 1px solid rgba(0, 0, 0, 0.05);
   border-radius: 5px;
   width: 400px;
   height: 550px;
-  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.05);
+}
+
+.project-card-content img {
+  height: 100px;
+  width: 150px;
+}
+
+.project-card-content .project-name {
+  font-size: large;
+  font-weight: bold;
+}
+
+.project-card-content .stack {
+  color: rgba(0, 0, 0, 0.356);
+}
+
+.project-card-content .desc {
+  width: 280px;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 40px;
+  justify-content: space-between;
+}
+
+.btn {
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
