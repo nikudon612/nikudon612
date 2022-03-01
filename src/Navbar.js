@@ -14,7 +14,8 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="logo">
-        <img onClick={handleClick} alt="logo"></img>
+        {/* <img onClick={handleClick} src="/nickphoto.png" alt="logo"></img> */}
+        <p onClick={handleClick}>NB</p>
       </div>
       <div className="rightside">
         <button className="btn" id="toggle" onClick={() => setShow(!show)}>

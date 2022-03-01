@@ -2,12 +2,10 @@
   height: 150px;
 }
 
-
-
 #arrow {
   position: relative;
   left: 1500px;
-  bottom: 150px;
+  /* bottom: 150px; */
 }
 
 #arrow:hover {
