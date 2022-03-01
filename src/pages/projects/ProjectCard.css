@@ -28,6 +28,7 @@
 .project-card-content .desc {
   width: 280px;
   font-size: small;
+  font-weight: bold;
 }
 
 #firsthr {
