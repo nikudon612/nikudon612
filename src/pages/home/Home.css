@@ -19,12 +19,12 @@
   margin-top: 30px;
 }
 
-.home-title .title {
+.title {
   margin-top: 30px;
   color: rgba(0, 0, 0, 0.356);
 }
 
-.home-title #photographer {
+#photographer {
   margin-top: -25px;
 }
 
