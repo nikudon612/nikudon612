@@ -66,10 +66,7 @@
   width: auto;
 }
 
-img {
+.icons img {
   width: 5vw;
   padding: 20px;
-}
-
-img:hover {
 }

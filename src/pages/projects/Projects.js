@@ -24,7 +24,7 @@ const projects = [
   {
     id: 3,
     name: "Exchange Rate Calc",
-    img: "",
+    img: "Erc.png",
     stack: "JS | HTML | CSS",
     desc: "Simple Exchange rate app that allows for instant conversion of the desired currency",
     deployed: "",

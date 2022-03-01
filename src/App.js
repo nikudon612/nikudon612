@@ -5,6 +5,7 @@ import About from "./pages/about/About.js";
 import Projects from "./pages/projects/Projects";
 import Skills from "./pages/skills/Skills";
 import Contact from "./pages/contact/Contact";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Projects />
       <Skills />
       <Contact />
+      <Footer />
     </>
   );
 }
