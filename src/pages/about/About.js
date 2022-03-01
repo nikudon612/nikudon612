@@ -8,12 +8,16 @@ function About() {
       <div className="about-content">
         <p>
           Full-Stack Software Developer with a background in Photography. My 10
-          years as a Photographer provide me with a unique set of skills, grit,
-          collaboration, multi-tasking, customer service, and a design oriented
-          eye. BLAH BLAH BLAH
-          FJKDLS:FJKLA:JFKLSAJFADSJIFOGJERITNKEDJFIDJKFSKEJGYKREJTKLEJKLRJTEIO:JTKNDKJTJELKT
-          JTKELJTIEJLAS TEK:TJKS TEJTKELJT TJEKL:JTK EJTKLE:JTKLEJKLTJE REKJ
-          RKEJFIOJIOAYTE FBS.
+          years as a Photographer provide me with a unique set of skills -
+          ability to collaborate, multi-tasking, creativity, being customer
+          service minded, and a design oriented eye. These skills help me become
+          a better developer everyday.
+          <br />I am also a freelance photographer based in Queens, NY. I have
+          shot for several publications, online magazines, and my work has been
+          shown in galleries in the US and abroad. I have a huge love for the
+          analogue photography process. In my freetime, I enjoy spending time in
+          my city and in nature, playing video games, reading manga, and when
+          the swell is good - surfing at Rockaway Beach in Queens.
         </p>
       </div>
     </div>
