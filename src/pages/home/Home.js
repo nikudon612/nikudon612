@@ -33,7 +33,7 @@ function Home() {
           </h4> */}
         </div>
 
-        <img src="Nickphoto.png" alt="Nick :)" id="photo" />
+        <img alt="Nick :)" id="photo" src="Nickphoto.png" />
       </div>
     </div>
   );

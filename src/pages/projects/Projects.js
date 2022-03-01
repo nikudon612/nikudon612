@@ -6,20 +6,20 @@ const projects = [
   {
     id: 1,
     name: "Safely",
-    img: "Safelyss.png",
     stack: "ReactJS | Ruby on Rails",
     desc: "COVID-19 Testing Site Location App in NYC",
     deployed: "https://safelyyy.herokuapp.com/",
     git: "https://github.com/nikudon612/Safely",
+    img: "Safelyss.png",
   },
   {
     id: 2,
     name: "CheckedIn",
-    img: "Checkedinss.png",
     stack: "ReactJS | Ruby on Rails",
     desc: "Blackboard clone that allows users to view their info, create events, and submit personal issues to staff",
     deployed: "",
     git: "https://github.com/dialloflatno/Checkin",
+    img: "Checkedinss.png",
   },
   {
     id: 3,
