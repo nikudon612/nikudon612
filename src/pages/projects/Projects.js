@@ -10,7 +10,7 @@ const projects = [
     desc: "COVID-19 Testing Site Location App in NYC",
     deployed: "https://safelyyy.herokuapp.com/",
     git: "https://github.com/nikudon612/Safely",
-    img: "Safelyss.png",
+    img: "safelyss.jpeg",
   },
   {
     id: 2,
