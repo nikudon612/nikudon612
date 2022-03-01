@@ -10,8 +10,9 @@ function About() {
           Full-Stack Software Developer with a background in Photography. My 10
           years as a Photographer provide me with a unique set of skills -
           ability to collaborate, multi-tasking, creativity, being customer
-          service minded, and a design oriented eye. These skills help me become
-          a better developer everyday.
+          service minded, and a design oriented eye. I implement these skills
+          everyday to help me become a better developer.
+          <br />
           <br />I am also a freelance photographer based in Queens, NY. I have
           shot for several publications, online magazines, and my work has been
           shown in galleries in the US and abroad. I have a huge love for the
