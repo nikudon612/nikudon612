@@ -38,6 +38,11 @@ function Navbar() {
             </Link>
           </li>
           <li>
+            <Link to="contact" smooth={true} duration={750}>
+              <span>CONTACT</span>
+            </Link>
+          </li>
+          <li>
             <a
               href="https://niku-code.tumblr.com/"
               target="_blank"
