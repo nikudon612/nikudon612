@@ -4,6 +4,7 @@ import Github from "../../github-original.svg";
 import "./Contact.css";
 
 function Contact() {
+    
   return (
     <div className="contact">
       <div className="contact-title">
