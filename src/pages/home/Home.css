@@ -6,7 +6,8 @@
 }
 
 .home-title {
-  padding-left: 100px;
+  padding-left: 150px;
+  display: flex;
 }
 
 .home-title .info {
@@ -45,6 +46,9 @@
   color: var(--althigh-color);
 }
 
+.home-info {
+}
+
 #photo {
   height: 600px;
   width: 500px;
@@ -53,4 +57,5 @@
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 50%;
+  object-position: right 30px;
 }
