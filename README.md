@@ -1,3 +1,5 @@
+<!-- permalink: /index.html -->
+
 ### Hi there 👋, my name is Nick Bechtel
 
 Full-stack Software Engineer | Photographer
