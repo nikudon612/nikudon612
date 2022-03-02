@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Nick Bechtel
 
 Full-stack Software Engineer | Photographer
+<br/>
 [Portfolio Site](https://nikudon612.github.io/Portfolio/)
 
 
