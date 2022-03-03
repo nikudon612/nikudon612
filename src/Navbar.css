@@ -82,3 +82,28 @@
 .logo p:hover {
   cursor: pointer;
 }
+
+@media only screen and (max-width: 650px) {
+  .navbar .rightside #toggle {
+    display: flex;
+    margin-right: 20px;
+  }
+  .navbar .rightside .links {
+    display: none;
+  }
+  .navbar .rightside #hidden {
+    display: flex;
+    position: absolute;
+    top: 100px;
+    background: #fff;
+    padding: 10px;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50px;
+    margin: -35px;
+  }
+  .navbar .btn {
+    width: 40px;
+    height: 40px;
+  }
+}

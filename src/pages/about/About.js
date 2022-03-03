@@ -8,7 +8,7 @@ function About() {
       <div className="about-content">
         <p>
           Full-Stack Software Developer with a background in Photography. My 10
-          years as a Photographer provide me with a unique set of skills -
+          years as a Photographer provide me with a unique set of skills - the
           ability to collaborate, multi-tasking, creativity, being customer
           service minded, and a design oriented eye. I implement these skills
           everyday to help me become a better developer.
@@ -24,7 +24,5 @@ function About() {
     </div>
   );
 }
-
-
 
 export default About;
