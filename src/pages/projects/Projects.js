@@ -6,7 +6,7 @@ const projects = [
   {
     id: 1,
     name: "Safely",
-    img: "/safelyss.jpeg",
+    img: "safelyss.jpeg",
     stack: "ReactJS | Ruby on Rails",
     desc: "COVID-19 Testing Site Location App in NYC",
     deployed: "https://safelyyy.herokuapp.com/",
@@ -15,7 +15,7 @@ const projects = [
   {
     id: 2,
     name: "CheckedIn",
-    img: "/checkedinss.jpeg",
+    img: "checkedinss.jpeg",
     stack: "ReactJS | Ruby on Rails",
     desc: "Blackboard clone that allows users to view their info, create events, and submit personal issues to staff",
     deployed: "",

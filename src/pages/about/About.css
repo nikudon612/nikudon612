@@ -30,3 +30,21 @@
   display: flex;
   margin-left: 150px;
 }
+
+@media only screen and (max-width: 850px) {
+  .about {
+    margin-bottom: 450px;
+  }
+  .about-content {
+    /* padding: 10px; */
+
+    /* margin-bottom: 900px; */
+  }
+  .about-content p {
+    /* font-size: 0.7em; */
+  }
+}
+
+/* @media only screen and (max-width: 450px) {
+
+} */

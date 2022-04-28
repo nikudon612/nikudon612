@@ -44,15 +44,30 @@
 
 .home-title a:hover {
   color: var(--althigh-color);
+  text-decoration: underline black;
 }
 
 #photo {
-  height: 600px;
-  width: 500px;
-  /* width: 40%;
-  height: 90%; */
+  /* height: 600px;
+  width: 500px; */
+  max-width: 100%;
+  min-width: 300px;
+  height: auto;
+  min-height: 300px;
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 50%;
   object-position: right 30px;
+}
+
+@media only screen and (max-width: 850px) {
+  .home-title {
+    align-items: center;
+    margin-left: -125px;
+    margin-top: -300px;
+  }
+  .home .home-title #photo {
+    height: 300px;
+    width: 250px;
+  }
 }
