@@ -36,12 +36,12 @@
     margin-bottom: 450px;
   }
   .about-content {
-    /* padding: 10px; */
+    padding: 10px;
 
-    /* margin-bottom: 900px; */
+    margin-bottom: 900px;
   }
   .about-content p {
-    /* font-size: 0.7em; */
+    font-size: large;
   }
 }
 
