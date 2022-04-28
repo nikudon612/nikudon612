@@ -59,6 +59,14 @@
   object-position: right 30px;
 }
 
+@media only screen and (max-width: 501px) {
+  .home .home-title #photo {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 300px;
+  }
+}
+
 @media only screen and (max-width: 850px) {
   .home-title {
     align-items: center;
@@ -68,5 +76,12 @@
   .home .home-title #photo {
     height: 300px;
     width: 250px;
+  }
+}
+
+@media only screen and (max-width: 1025px) {
+  .home .home-title #photo {
+    height: 600px;
+    width: 600px;
   }
 }
