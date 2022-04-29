@@ -50,9 +50,9 @@
 #photo {
   width: auto\9;
   max-width: 100%;
-  min-width: 300px;
+  /* min-width: 300px; */
   height: auto;
-  min-height: 300px;
+  /* min-height: 300px; */
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 50%;
@@ -60,10 +60,12 @@
 }
 
 @media only screen and (max-width: 501px) {
+  .home-title {
+    padding-bottom: 900px;
+  }
   .home .home-title #photo {
     height: 150px;
     width: 150px;
-    margin-bottom: 300px;
   }
 }
 
