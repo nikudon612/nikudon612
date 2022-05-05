@@ -70,3 +70,9 @@
   width: 5vw;
   padding: 20px;
 }
+
+@media screen and (max-width: 550px) {
+  .contact-box {
+    width: 400px;
+  }
+}
