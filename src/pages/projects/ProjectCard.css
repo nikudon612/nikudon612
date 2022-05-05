@@ -9,6 +9,8 @@
   align-items: center;
   justify-content: center;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.05);
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 /* .project-card-content img {
@@ -78,13 +80,13 @@
   }
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 500px) {
   .project-cards {
     display: flex;
     flex-direction: column;
   }
   .project-card-content img {
-    width: 150px;
+    width: 250px;
   }
   .project-card-content .buttons {
     grid-gap: 5px;
