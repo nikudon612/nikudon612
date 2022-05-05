@@ -9,10 +9,9 @@ function Home() {
         <div className="home-info">
           {/* <h1 className="info">CODE</h1>
           <h1 className="info">& PHOTO</h1> */}
-
+          <h1>Hi, I'm Nick Bechtel!</h1>
           <h2 id="intro">
-            Hi, I'm Nick Bechtel,
-            <br />a{" "}
+            I'm a{" "}
             <Link id="sd" to="about" smooth={true} duration="1000">
               Software Developer
             </Link>
