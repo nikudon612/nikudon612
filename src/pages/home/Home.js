@@ -33,7 +33,11 @@ function Home() {
           </h4> */}
         </div>
 
-        <img src="nickphoto.png" alt="Nick :)" id="photo" />
+        <img
+          src={process.env.PUBLIC_URL + "/Nick.png"}
+          alt="Nick :)"
+          id="photo"
+        />
       </div>
     </div>
   );
