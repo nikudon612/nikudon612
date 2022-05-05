@@ -83,7 +83,7 @@
   cursor: pointer;
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 750px) {
   .navbar .rightside #toggle {
     display: flex;
     margin-right: 20px;

@@ -1,6 +1,6 @@
 .home {
   display: flex;
-  height: 100vh;
+  /* height: 100vh; */
   margin: 0 60px;
   margin-top: 150px;
 }
