@@ -82,7 +82,21 @@
   }
 }
 
-@media screen and (min-width: 1026px) {
+@media screen and (min-width: 1026px) and (max-width: 1080px) {
+  #photo {
+    height: 100%;
+    width: 100%;
+    min-width: 800px;
+    max-width: 800px;
+    max-height: 800px;
+  }
+  .home-title {
+    padding-left: 150px;
+    /* display: flex; */
+  }
+}
+
+@media screen and (min-width: 1081px) {
   #photo {
     height: 100%;
     width: 100%;
