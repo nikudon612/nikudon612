@@ -5,10 +5,9 @@
   margin-top: 150px;
 }
 
-.home-title {
-  padding-left: 150px;
+/* .home-title {
   display: flex;
-}
+} */
 
 .home-title .info {
   margin-bottom: -30px;
@@ -90,5 +89,9 @@
     min-width: 946px;
     max-width: 946px;
     max-height: 946px;
+  }
+  .home-title {
+    padding-left: 150px;
+    /* display: flex; */
   }
 }
