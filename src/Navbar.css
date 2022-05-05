@@ -47,6 +47,7 @@
 .navbar button {
   font-weight: bold;
   padding: 3px;
+  text-decoration: none;
 }
 
 .navbar button:hover {
