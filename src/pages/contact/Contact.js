@@ -4,14 +4,13 @@ import Github from "../../github-original.svg";
 import "./Contact.css";
 
 function Contact() {
-    
   return (
     <div className="contact">
       <div className="contact-title">
         <h2>CONTACT</h2>
       </div>
       <div className="contact-box">
-        <h1>Nick Bechtel</h1>
+        <h2>Nick Bechtel</h2>
         <div className="secondary">
           <h4 className="title">Full-Stack Software Developer</h4>
           <h4 className="title" id="photographer">
