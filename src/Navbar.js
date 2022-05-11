@@ -54,7 +54,7 @@ function Navbar() {
           </li>
           <li>
             <a
-              href="https://docs.google.com/document/d/1iMBqtXsack1yDsWAYdHRtqHiurjyJ7G4LNtl9rXJVBM/edit?usp=sharing"
+              href="https://drive.google.com/file/d/1MBHPh-CzOpbXRi-hfIZV9q6-il__0X88/view?usp=sharing"
               target="_blank"
               rel="noreferrer noopener"
             >

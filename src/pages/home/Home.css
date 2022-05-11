@@ -26,13 +26,13 @@ h1::after {
 
 h1::before {
   background-color: var(--background-color);
-  animation: typewriter 3s steps(21) forwards;
+  animation: typewriter 3s steps(21) 1s forwards;
 }
 
 h1::after {
   width: 0.09em;
   background: black;
-  animation: typewriter 3s steps(21) forwards, blink 650ms steps(21) infinite;
+  animation: typewriter 3s steps(21) 1s forwards, blink 650ms steps(21) forwards;
 }
 
 @keyframes typewriter {
