@@ -5,9 +5,6 @@ Full-stack Software Engineer | Photographer
 [Portfolio Site](https://nikudon612.github.io/Portfolio/)
 
 
-![NickBanner](https://user-images.githubusercontent.com/87031638/153313250-f899e42e-af1e-457a-9d35-52c90cc80a21.png)
-
-
 Tech skills - React, Ruby on Rails, Ruby, JavaScript, HTML, CSS, among others...
 
 Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron School. My background is in [Photography](https://www.nickbechtel.com/) and Fine Arts. My hobbies are surfing, video games, and anime/manga.
@@ -18,11 +15,7 @@ Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron Sc
 <br/>
 🌱 I’m currently learning TypeScript
 <br/>
-💬 Ask me about anything! I'm open to any collaborations!
-<br/>
 📫 How to reach me: https://www.linkedin.com/in/nicholasbechtel/
-<br/>
-⚡ Fun fact: I can speak conversational Japanese :smile:
 
 <br/>
 
