@@ -16,7 +16,7 @@ Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron Sc
 
 🔭 I’m currently working on [Safely](https://github.com/nikudon612/Safely), [CheckedIn](https://github.com/dialloflatno/Checkin), and Jimbo's
 <br/>
-🌱 I’m currently learning PHP
+🌱 I’m currently learning TypeScript
 <br/>
 💬 Ask me about anything! I'm open to any collaborations!
 <br/>
