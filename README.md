@@ -18,11 +18,9 @@ Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron Sc
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  height='40' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='40'/>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikudon612a&count_private=true&show_icons=true&theme=dark)
- <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikudon612&count_private=true&show_icons=true&theme=dark)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikudon612&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
