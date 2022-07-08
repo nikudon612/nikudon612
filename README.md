@@ -20,7 +20,5 @@ Based in NYC - Full-stack Software Engineer and recent graduate from FlatIron Sc
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikudon612&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikudon612&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
