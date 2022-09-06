@@ -7,8 +7,6 @@ function Home() {
     <div className="home">
       <div className="home-title">
         <div className="home-info">
-          {/* <h1 className="info">CODE</h1>
-          <h1 className="info">& PHOTO</h1> */}
           <h1 id="name">Hi, I'm Nick Bechtel!</h1>
           <h2 id="intro">
             I'm a{" "}
@@ -26,10 +24,6 @@ function Home() {
             </a>{" "}
             based in NYC.
           </h2>
-          {/* <h4 className="title">Full-Stack Software Developer</h4>
-          <h4 className="title" id="photographer">
-            Photographer
-          </h4> */}
         </div>
 
         <img
