@@ -7,7 +7,7 @@ function Home() {
     <div className="home">
       <div className="home-title">
         <div className="home-info">
-          <h1 id="name">Hi, I'm Nick Bechtel!</h1>
+          <h1 id="name">Hi, I'm Nick Bechtel</h1>
           <h2 id="intro">
             I'm a{" "}
             <Link id="sd" to="about" smooth={true} duration="1000">

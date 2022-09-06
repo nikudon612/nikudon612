@@ -24,6 +24,18 @@
 .about-content p {
   padding: 10px;
   font-size: large;
+  font-weight: 500;
+}
+
+.about-content a:hover {
+  cursor: pointer;
+  color: var(--highlight-color);
+}
+
+.about-content a {
+  font-weight: bold;
+  /* text-decoration: none; */
+  color: #121414;
 }
 
 .about h2 {

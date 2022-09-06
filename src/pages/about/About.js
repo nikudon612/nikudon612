@@ -7,18 +7,30 @@ function About() {
       <h2>ABOUT</h2>
       <div className="about-content">
         <p>
-          Full-Stack Software Developer with a background in Photography. My 10
-          years as a Photographer provide me with a unique set of skills - the
-          ability to collaborate, multi-tasking, creativity, being customer
-          service minded, and a design oriented eye. I implement these skills
-          everyday to help me become a better developer.
+          I'm a Full-stack Software Developer based in New York City. Currently
+          working with {""}
+          <a
+            href="https://www.perpetualny.com/"
+            target="_blank"
+            rel="noreferrer"
+            className="companyLink"
+          >
+            Perpetual
+          </a>
+          .
           <br />
-          <br />I am also a freelance photographer based in Queens, NY. I have
-          shot for several publications, online magazines, and my work has been
-          shown in galleries in the US and abroad. I have a huge love for the
-          analogue photography process. In my freetime, I enjoy spending time in
-          my city and in nature, playing video games, reading manga, and when
-          the swell is good - surfing at Rockaway Beach in Queens.
+          <br />
+          I'm also a freelance photographer - having shot for several
+          publications, online magazines, and have had my work shown in
+          galleries in the US and abroad. 10 years in Photography have provided
+          me with a unique set of skills: the ability to collaborate,
+          multi-tasking, thinking on-the-fly, and a design oriented eye. I
+          implement these skills everyday to help me become a better developer.
+          <br />
+          <br />
+          In my freetime I enjoy drinking matcha in downtown Manhattan,
+          exploring New Yorks endless food options, and when the swell is good -
+          surfing at Rockaway Beach in Queens.
         </p>
       </div>
     </div>
