@@ -123,17 +123,21 @@ h1::after {
 
 @media screen and (min-width: 501px) and (max-width: 800px) {
   #photo {
-    height: 400px;
     width: 400px;
     min-width: 400px;
+  }
+  .home-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 }
 
 @media screen and (min-width: 801px) and (max-width: 1025px) {
   #photo {
-    height: 600px;
     width: 600px;
-    min-width: 600px;
+    min-width: 375px;
+    max-width: 375px;
     max-height: 600px;
   }
 }
@@ -142,8 +146,8 @@ h1::after {
   #photo {
     height: 100%;
     width: 100%;
-    min-width: 700px;
-    max-width: 700px;
+    min-width: 450px;
+    max-width: 450px;
     max-height: 700px;
   }
   .home-title {

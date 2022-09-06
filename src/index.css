@@ -10,6 +10,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background-color);
 }
 
 h1 {
@@ -22,7 +23,7 @@ code {
 }
 
 :root {
-  --text-color: rgb(44, 44, 44);
+  --text-color: #121414;
   --highlight-color: rgb(223, 189, 223);
   --althigh-color: rgb(29, 29, 29);
   --textbackground-color: #e9fafa;

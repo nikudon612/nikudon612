@@ -19,7 +19,7 @@ const projects = [
     name: "Another Day Agency",
     img: ada,
     stack: "JSX | TypeScript | UI/UX",
-    desc: "UI/UX Design and Developed a redesign of Another Day Agencies website",
+    desc: "Web Development and UI/UX Design redesign for Another Day Agency",
     deployed: "",
     git: "https://github.com/nikudon612/Another-Day-Agency",
   },
