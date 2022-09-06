@@ -16,7 +16,7 @@ function ProjectCard({ project }) {
           <button className="btn">SITE</button>
         </a> */}
         <a href={git} target="_blank" rel="noreferrer noopener">
-          <button className="btn">CODE</button>
+          <button className="btn">VIEW PROJECT</button>
         </a>
       </div>
     </div>

@@ -1,20 +1,18 @@
 .home {
   display: flex;
-  /* height: 100vh; */
   margin: 0 60px;
   margin-top: 100px;
 }
 
-/* .home-title {
+.home-title {
   display: flex;
-} */
-
-h1 {
+}
+*/ h1 {
   width: max-content;
   position: relative;
 }
 
-h1::before,
+/* h1::before,
 h1::after {
   content: "";
   top: 0;
@@ -22,20 +20,19 @@ h1::after {
   left: 0;
   bottom: 0;
   position: absolute;
-}
+} */
 
-h1::before {
+/* h1::before {
   background-color: var(--background-color);
   animation: typewriter 3s steps(21) 1s forwards;
-}
+} */
 
-h1::after {
+/* h1::after {
   width: 0.09em;
   background: black;
   animation: typewriter 3s steps(21) 1s forwards, blink 650ms steps(21) forwards;
-}
-
-@keyframes typewriter {
+} */
+*/ @keyframes typewriter {
   to {
     left: 100%;
   }
@@ -54,10 +51,16 @@ h1::after {
   }
 }
 
+#name {
+  opacity: 0;
+  transform: translateY(3rem);
+  animation: fadein 2s ease 0.5s forwards;
+}
+
 #intro {
   opacity: 0;
   transform: translateY(3rem);
-  animation: fadein 2s ease 3s forwards;
+  animation: fadein 2s ease 2s forwards;
 }
 
 .home-title .info {
@@ -142,13 +145,12 @@ h1::after {
   #photo {
     height: 100%;
     width: 100%;
-    min-width: 800px;
-    max-width: 800px;
-    max-height: 800px;
+    min-width: 700px;
+    max-width: 700px;
+    max-height: 700px;
   }
   .home-title {
     padding-left: 150px;
-    /* display: flex; */
   }
 }
 
@@ -156,9 +158,9 @@ h1::after {
   #photo {
     height: 100%;
     width: 100%;
-    min-width: 946px;
-    max-width: 946px;
-    max-height: 946px;
+    min-width: 550px;
+    max-width: 750px;
+    max-height: 750px;
   }
   .home-title {
     padding-left: 150px;
