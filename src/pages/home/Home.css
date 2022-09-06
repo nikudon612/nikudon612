@@ -105,6 +105,7 @@ h1::after {
   min-width: 200px;
   min-height: 200px;
   opacity: 0;
+  transform: translateY(3rem);
   animation: fadein 2s ease 0.5s forwards;
 }
 
