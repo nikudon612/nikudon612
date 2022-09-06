@@ -7,7 +7,7 @@
 .home-title {
   display: flex;
 }
-*/ h1 {
+* h1 {
   width: max-content;
   position: relative;
 }
@@ -32,7 +32,7 @@ h1::after {
   background: black;
   animation: typewriter 3s steps(21) 1s forwards, blink 650ms steps(21) forwards;
 } */
-*/ @keyframes typewriter {
+* @keyframes typewriter {
   to {
     left: 100%;
   }
@@ -159,7 +159,7 @@ h1::after {
     height: 100%;
     width: 100%;
     min-width: 550px;
-    max-width: 750px;
+    max-width: 550px;
     max-height: 750px;
   }
   .home-title {
