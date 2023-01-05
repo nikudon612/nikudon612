@@ -106,7 +106,7 @@ h1::after {
   min-height: 200px;
   opacity: 0;
   transform: translateY(3rem);
-  animation: fadein 2s ease 0.5s forwards;
+  animation: fadein 2s ease 2.25s forwards;
 }
 
 @media screen and (max-width: 500px) {

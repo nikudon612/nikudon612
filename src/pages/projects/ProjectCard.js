@@ -12,12 +12,12 @@ function ProjectCard({ project }) {
       <p className="desc">{desc}</p>
       <hr id="firsthr" />
       <div className="buttons">
-        {/* <a href={deployed} target="_blank" rel="noreferrer noopener">
+        <a href={deployed} target="_blank" rel="noreferrer noopener">
           <button className="btn">SITE</button>
-        </a> */}
-        <a href={git} target="_blank" rel="noreferrer noopener">
-          <button className="btn">VIEW PROJECT</button>
         </a>
+        {/* <a href={git} target="_blank" rel="noreferrer noopener">
+          <button className="btn">VIEW CODEBASE</button>
+        </a> */}
       </div>
     </div>
   );

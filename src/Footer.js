@@ -6,8 +6,8 @@ import "./Footer.css";
 function Footer() {
   return (
     <div className="footer">
-      <Link to="navbar" smooth={true} duration="1000">
-        <img src={Arrow} alt="up arrow" id="arrow"></img>
+      <Link to="home" smooth={true} duration="1000">
+        <img src={Arrow} alt="up arrow" id="arrow" />
       </Link>
     </div>
   );

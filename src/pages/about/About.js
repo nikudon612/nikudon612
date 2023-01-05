@@ -21,16 +21,18 @@ function About() {
           <br />
           <br />
           I'm also a freelance photographer - having shot for several
-          publications, online magazines, and have had my work shown in
-          galleries in the US and abroad. 10 years in Photography have provided
-          me with a unique set of skills: the ability to collaborate,
-          multi-tasking, thinking on-the-fly, and a design oriented eye. I
-          implement these skills everyday to help me become a better developer.
+          publications and have had my work shown in galleries abroad + in the
+          US.
+          <br />
+          10 years in Photography have provided me with a unique set of skills:
+          the ability to collaborate, multi-tasking, thinking on-the-fly, and a
+          design oriented eye.
+          <br />
+          I tap into these skills everyday to help me become a better developer.
           <br />
           <br />
-          In my freetime I enjoy drinking matcha in downtown Manhattan,
-          exploring New Yorks endless food options, and when the swell is good -
-          surfing at Rockaway Beach in Queens.
+          In my freetime I enjoy drinking Matcha, exploring NYC's new eats, and
+          surfing at Rockaway Beach when there's a swell.
         </p>
       </div>
     </div>
