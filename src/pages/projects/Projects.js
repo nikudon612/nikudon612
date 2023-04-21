@@ -1,7 +1,7 @@
 import React from "react";
 import ProjectCard from "./ProjectCard";
 import "./Projects.css";
-import reach from "../../assests/Reach.png";
+import reach from "../../assests/reach.png";
 import ada from "../../assests/ADA.jpg";
 import dom from "../../assests/DoM.png";
 
