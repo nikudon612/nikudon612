@@ -1,9 +1,9 @@
 import React from "react";
 import ProjectCard from "./ProjectCard";
 import "./Projects.css";
-import reach from "/Users/nickbechtel/portfolio/src/assests/reach.png";
-import ada from "/Users/nickbechtel/portfolio/src/assests/ADA.jpg";
-import dom from "/Users/nickbechtel/portfolio/src/assests/DoM.png";
+import reach from "../../assests/Reach.png";
+import ada from "../../assests/ADA.jpg";
+import dom from "../../assests/DoM.png";
 
 const projects = [
   {
