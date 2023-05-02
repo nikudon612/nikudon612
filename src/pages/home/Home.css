@@ -91,8 +91,8 @@ h1::after {
 }
 
 .home-title a {
-  text-decoration: underline rgb(223, 189, 223);
-  color: rgb(223, 189, 223);
+  text-decoration: underline #9bd497;
+  color: #9bd497;
 }
 
 .home-title a:hover {
