@@ -7,17 +7,7 @@ function About() {
       <h2>ABOUT</h2>
       <div className="about-content">
         <p>
-          I'm a Full-stack Software Developer based in New York City. Currently
-          working with {""}
-          <a
-            href="https://www.perpetualny.com/"
-            target="_blank"
-            rel="noreferrer"
-            className="companyLink"
-          >
-            Perpetual
-          </a>
-          .
+          I'm a Full-stack Software Developer based in New York City.
           <br />
           <br />
           

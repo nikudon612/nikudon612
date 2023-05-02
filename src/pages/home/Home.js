@@ -9,7 +9,7 @@ function Home() {
         <div className="home-info">
           <h1 id="name">Hi, I'm Nick Bechtel</h1>
           <h2 id="intro">
-            NYC Based {" "}
+            I'm a {" "}
             <Link id="sd" to="about" smooth={true} duration="1000">
               Software Developer
             </Link>
@@ -22,7 +22,7 @@ function Home() {
             >
               Photographer
              <br />
-
+            based in NYC.
             </a>
           </h2>
         </div>
