@@ -21,7 +21,6 @@ function Home() {
               rel="nooponer noreferrer"
             >
               Photographer
-             <br />
             </a>
             based in NYC.
           </h2>
