@@ -9,11 +9,9 @@ function Home() {
         <div className="home-info">
           <h1 id="name">Hi, I'm Nick Bechtel</h1>
           <h2 id="intro">
-            A{" "}
             <Link id="sd" to="about" smooth={true} duration="1000">
               Software Developer
             </Link>
-            <br />
             and{" "}
             <a
               href="https://www.nickbechtel.com/"
@@ -21,6 +19,8 @@ function Home() {
               rel="nooponer noreferrer"
             >
               Photographer
+             <br />
+
             </a>{" "}
             based in NYC.
           </h2>
