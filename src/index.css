@@ -25,8 +25,9 @@ code {
 :root {
   --text-color: #121414;
   /* --highlight-color: rgb(223, 189, 223); */
-  --highlight-color: #71b66d;
-  --althigh-color: rgb(29, 29, 29);
+  --highlight-color: #49a544;
+  /* --althigh-color: rgb(29, 29, 29); */
+  --althigh-color: #49a544;
   --textbackground-color: #e9fafa;
   --background-color: white;
 }
