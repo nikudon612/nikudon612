@@ -22,8 +22,8 @@ function Home() {
             >
               Photographer
              <br />
-            based in NYC.
             </a>
+            based in NYC.
           </h2>
         </div>
 
