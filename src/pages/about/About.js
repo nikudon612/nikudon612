@@ -29,8 +29,7 @@ function About() {
           I tap into these skills everyday to help me become a better developer.
           <br />
           <br />
-          In my freetime I enjoy drinking Matcha, exploring NYC's new eats, and
-          surfing at Rockaway Beach when there's a swell.
+          During my free time, I enjoy sipping on Matcha, discovering new eateries around NYC, and catching waves at Rockaway Beach whenever the swell is up. These activities help me stay grounded and balanced, leading to better performance both personally and professionally.
         </p>
       </div>
     </div>
