@@ -3,7 +3,8 @@ import "./About.css";
 
 function About() {
   return (
-    <div className="about">
+    <div style={{display: "flex", maxWidth: "80%"}}>
+      <div className="about">
       <h2>ABOUT</h2>
       <div className="about-content">
         <p>
@@ -20,6 +21,8 @@ function About() {
         </p>
       </div>
     </div>
+    </div>
+    
   );
 }
 
