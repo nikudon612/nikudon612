@@ -8,6 +8,9 @@ function About() {
         {/* <h2>ABOUT</h2> */}
         <div className="about-content">
           <p>
+            A little about me
+            <br />
+            <br />
             I specialize in Next.js, TypeScript. Collaborating with designers
             to bring their visions to life excites me, and I thrive on building
             scalable, fluid, and performant front-end UIs. With a love for
