@@ -22,7 +22,7 @@ function Home() {
             >
               Photographer
             </a>
-            based in NYC.
+            based in NYC
           </h2>
         </div>
 

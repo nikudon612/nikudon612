@@ -5,7 +5,7 @@ function About() {
   return (
     <div style={{display: "flex", justifyContent: 'center'}}>
       <div className="about">
-      <h2>ABOUT</h2>
+      {/* <h2>ABOUT</h2> */}
       <div className="about-content">
         <p>
           I'm a Full-stack Software Developer based in New York City.
