@@ -14,7 +14,7 @@ function Home() {
             Software Developer
             {/* </Link> */}
             <br />
-            and Photographer based in NYC
+            based in NYC
           </h2>
         </div>
 
