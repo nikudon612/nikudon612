@@ -31,7 +31,9 @@ function About() {
             <br />
             <br />
             <br />
-            In my freetime, I enjoy a nice Matcha latte, taking photos on one of my old film cameras, or if there's a swell, surfing at Rockaway Beach("Yes NYC actually has decent surf!"). 
+            In my freetime, I enjoy a nice Matcha latte, taking photos on one of my old film cameras, or if there's a swell, surfing at Rockaway Beach 
+            <br/>
+            ("Yes NYC actually has decent surf!"). 
           </p>
         </div>
       </div>
