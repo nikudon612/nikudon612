@@ -7,7 +7,7 @@ function Contact() {
   return (
     <div className="contact">
       <div className="contact-title">
-        <h2>CONTACT</h2>
+        {/* <h2>CONTACT</h2> */}
       </div>
       <div className="contact-box">
         <h2>Nick Bechtel</h2>
