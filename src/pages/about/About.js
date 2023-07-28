@@ -3,7 +3,7 @@ import "./About.css";
 
 function About() {
   return (
-    <div style={{display: "flex", maxWidth: "80%"}}>
+    <div style={{display: "flex", justifyContent: 'center'}}>
       <div className="about">
       <h2>ABOUT</h2>
       <div className="about-content">
