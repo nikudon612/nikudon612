@@ -11,8 +11,8 @@ function About() {
             A little about me
             <br />
             <br />
-            I specialize in Next.js, TypeScript. Collaborating with designers
-            to bring their visions to life excites me, and I thrive on building
+            I'm a programmer specializing in Next.js and TypeScript. Collaborating with designers
+            to bring their visions to life excites me, I thrive on building
             scalable, fluid, and performant front-end UIs. With a love for
             technology and continuous learning, I stay at the forefront of web
             development best practices. My dedication to crafting exceptional
@@ -31,7 +31,8 @@ function About() {
             <br />
             <br />
             <br />
-            In my freetime, I enjoy a nice Matcha latte, taking photos on one of my old film cameras, or if there's a swell, surfing at Rockaway Beach 
+            In my freetime, I enjoy a Matcha latte, taking photos on one of my many old film cameras, or if there's a swell, surfing at Rockaway Beach 
+            <br/>
             <br/>
             ("Yes NYC actually has decent surf!"). 
           </p>
