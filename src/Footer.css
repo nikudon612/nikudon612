@@ -1,11 +1,8 @@
 .footer {
-  height: 150px;
-}
-
-#arrow {
-  /* position: relative;
-  left: 1500px; */
-  /* bottom: 150px; */
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 #arrow:hover {
