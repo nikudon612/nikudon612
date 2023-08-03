@@ -13,6 +13,10 @@
   text-decoration: none;
 }
 
+.footer-link:hover {
+  color: #2c2c2c;
+}
+
 #arrow:hover {
   cursor: pointer;
 }
