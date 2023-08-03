@@ -14,9 +14,9 @@ function App() {
       <Home />
       <About />
       <Projects />
-      {/* <Skills /> */}
-      {/* <Contact /> */}
-      <Footer />
+      <div style={{position: "absolute", bottom: "0"}}>
+        <Footer />
+      </div>
     </>
   );
 }
