@@ -1,61 +1,31 @@
 .about {
-  height: 100vh;
+  /* Remove height and max-width properties */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 65%;
+  width: 100%; /* Take up the full available width */
 }
 
 .about-content {
+  /* Remove height and width properties */
   display: flex;
   flex-direction: column;
-  height: auto;
-  width: auto;
   border-radius: 10px;
   border: 1px solid rgba(0, 0, 0, 0.05);
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.05);
-  /* background-color: var(--textbackground-color); */
-  padding: 30px;
-  margin-right: 150px;
-  margin-left: 150px;
+  padding: 20px; /* Adjust the padding for spacing */
+  /* Remove margin-right and margin-left properties */
   align-items: center;
 }
 
 .about-content p {
   padding: 10px;
-  font-size: large;
+  font-size: medium; /* Adjust font size as needed */
   font-weight: 500;
 }
 
-.about-content a:hover {
-  cursor: pointer;
-  color: var(--highlight-color);
-}
-
-.about-content a {
-  font-weight: bold;
-  /* text-decoration: none; */
-  color: #121414;
-}
-
-.about h2 {
-  display: flex;
-  justify-content: center;
-}
-
-@media only screen and (max-width: 850px) {
-  .about {
-    margin-bottom: 450px;
-  }
-  .about-content {
-    margin-left: 15px;
-    margin-right: 15px;
-  }
-  .about-content p {
-    font-size: large;
-  }
-}
+/* Remove the media query for max-width: 850px, as it's not needed */
 
 @media only screen and (max-width: 500px) {
   .about {
