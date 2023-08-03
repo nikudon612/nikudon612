@@ -16,7 +16,7 @@ function Footer() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          <i className="fab fa-linkedin fa-2x"></i>
+          LinkedIn
         </a>
         <a href=""></a>
       </div>
