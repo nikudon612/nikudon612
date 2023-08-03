@@ -10,11 +10,13 @@ import Footer from "./Footer";
 function App() {
   return (
     <>
-      <Navbar />
-      <Home />
-      <About />
-      <Projects />
-      <div style={{position: "absolute", bottom: "0"}}>
+      <div className="app">
+        <Navbar />
+        <div className="mainContent">
+          <Home />
+          <About />
+          <Projects />
+        </div>
         <Footer />
       </div>
     </>
