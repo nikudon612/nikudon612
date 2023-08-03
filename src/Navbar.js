@@ -32,7 +32,7 @@ function Navbar() {
               <span>PROJECTS</span>
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link to="skills" smooth={true} duration={750}>
               <span>SKILLS</span>
             </Link>
@@ -41,7 +41,7 @@ function Navbar() {
             <Link to="contact" smooth={true} duration={750}>
               <span>CONTACT</span>
             </Link>
-          </li>
+          </li> */}
           <li>
             <a
               href="https://niku-code.tumblr.com/"
