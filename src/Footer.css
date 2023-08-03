@@ -3,6 +3,8 @@
   display: flex;
   align-items: center;
   justify-content: flex-end;
+    /* Add some space above the footer to push it to the bottom */
+    margin-top: auto;
 }
 
 .footer-link {
