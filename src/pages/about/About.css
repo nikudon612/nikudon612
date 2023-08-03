@@ -5,6 +5,9 @@
   justify-content: center;
   align-items: center;
   width: 100%; /* Take up the full available width */
+  max-width: 960px; /* Set a maximum width for desktop view
+   */
+  margin: 0 auto; /* Center the .about section horizontally */
 }
 
 .about-content {
