@@ -18,7 +18,7 @@ function Footer() {
         >
           LinkedIn
         </a>
-        <a href=""></a>
+        <a href="https://github.com/nikudon612" target="_blank" rel="nonreferrer noopener">GitHub</a>
       </div>
     </div>
   );
