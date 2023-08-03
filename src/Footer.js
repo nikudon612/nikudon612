@@ -6,9 +6,20 @@ import "./Footer.css";
 function Footer() {
   return (
     <div className="footer">
-      <Link to="home" smooth={true} duration="1000">
+      {/* <Link to="home" smooth={true} duration="1000">
         <img src={Arrow} alt="up arrow" id="arrow" />
-      </Link>
+      </Link> */}
+      <div className="footer-links">
+        <a
+          href="
+          https://www.linkedin.com/in/nicholas-bechtel/"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          <i className="fab fa-linkedin fa-2x"></i>
+        </a>
+        <a href=""></a>
+      </div>
     </div>
   );
 }
