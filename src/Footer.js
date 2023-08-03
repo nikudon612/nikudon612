@@ -15,6 +15,7 @@ function Footer() {
           https://www.linkedin.com/in/nicholas-bechtel/"
           target="_blank"
           rel="noreferrer noopener"
+          className="footer-link"
         >
           LinkedIn
         </a>
@@ -22,6 +23,7 @@ function Footer() {
           href="https://github.com/nikudon612"
           target="_blank"
           rel="nonreferrer noopener"
+          className="footer-link"
         >
           GitHub
         </a>

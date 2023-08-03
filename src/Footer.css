@@ -5,6 +5,12 @@
   justify-content: flex-end;
 }
 
+.footer-link {
+  margin-right: 20px;
+  color: #000;
+  text-decoration: none;
+}
+
 #arrow:hover {
   cursor: pointer;
 }
