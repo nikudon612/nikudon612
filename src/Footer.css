@@ -7,6 +7,10 @@
     margin-top: auto;
 }
 
+.footer-links {
+  margin-right: 20px;
+}
+
 .footer-link {
   margin-right: 20px;
   color: #000;
