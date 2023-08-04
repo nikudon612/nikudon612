@@ -34,7 +34,7 @@ function About() {
             In my freetime, I enjoy a Matcha latte, taking photos on one of my many old film cameras, or if there's a swell, surfing at Rockaway Beach 
             <br/>
             <br/>
-            (...And yes, NYC actually has decent surf!). 
+            (...And yes, NYC actually has decent surf!)
           </p>
         </div>
       </div>
