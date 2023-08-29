@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Nick Bechtel
 
-NYC-Based Software Engineer - [Portfolio](https://nickbechtel.com)
+Software Engineer based in NYC - [Portfolio](https://nickbechtel.com)
 <br/>
 
 🖥️ I’m currently working on [Dept of Music](https://deptofmusic.com)
