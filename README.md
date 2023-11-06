@@ -7,6 +7,6 @@ Software Engineer based in NYC - [Portfolio](https://nickbechtel.com)
 
 🖥️ I’m currently working on [Dept of Music](https://deptofmusic.com)
 <br/>
-🌱 I’m currently learning NextJS & 3JS
+🌱 I’m currently learning SvelteKit & 3JS
 <br/>
 
