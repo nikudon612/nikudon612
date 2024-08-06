@@ -7,6 +7,6 @@
 
 🖥️ I’m currently working on [Dept of Music](https://deptofmusic.com)
 <br/>
-🌱 I’m currently learning SvelteKit & 3JS
+🌱 I’m currently learning Llama 3
 <br/>
 
