@@ -1,6 +1,6 @@
 <!-- permalink: /index.html -->
 
-### Hi there 👋, my name is Nick Bechtel
+### Hi there 👋, my name is Nick
 
 [Software Engineer](https://nickbechtel.com) based in NYC
 <br/>
